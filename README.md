@@ -1,6 +1,7 @@
 # Socrates
 
 Sample output:
+
 ```
 Cat Test: I'm moving with 4 legs!
 Bug Test: I'm moving with 6 legs!
